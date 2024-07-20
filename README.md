@@ -73,11 +73,13 @@ To start with this project, ensure that Node.js and npm (or Yarn) are installed 
     ```
 
     Ensure you have an Android emulator running or a device connected.
+4. **main files**
+   The assets and components are located in src directory.
 
 ## Running the App
 
 - **Homepage**: Use horizontal scrolling to explore top stories, posts, and profile suggestions.
 - **Profile Icon**: Click the icon at the bottom of the homepage to navigate to the profile page.
-The assets and components are located in the src directory.
+
 
 
