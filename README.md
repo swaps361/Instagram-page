@@ -1,4 +1,4 @@
-# React Native Social Media App
+# Instagram-page
 
 This project is a social media application created with React Native, featuring a profile page, a homepage showcasing top stories, posts, and profile recommendations. The app includes horizontal scrolling for stories, posts, and suggestions.
 
