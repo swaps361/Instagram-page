@@ -78,5 +78,6 @@ To start with this project, ensure that Node.js and npm (or Yarn) are installed 
 
 - **Homepage**: Use horizontal scrolling to explore top stories, posts, and profile suggestions.
 - **Profile Icon**: Click the icon at the bottom of the homepage to navigate to the profile page.
+The assets and components are located in the src directory.
 
 
